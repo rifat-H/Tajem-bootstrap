@@ -1,0 +1,377 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+  /* footer start */
+
+  .touch p {
+    text-align: center;
+  }
+
+
+
+  footer .discription {
+    text-align: center;
+  }
+
+  .studio-head {
+    text-align: center;
+  }
+
+  .studio-head h1 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 0;
+  }
+
+  footer .discription ul {
+    margin: 0;
+  }
+/* 
+  .touch input[type=submit]{
+    padding-left: 0;
+  } */
+
+  .touch {
+    text-align: center;
+  }
+
+  .touch h1 {
+    margin-top: 60px;
+  }
+  
+
+  .touch ul {
+    text-align: center !important;
+  }
+
+  footer .discription img {
+    text-align: center;
+  }
+
+  footer .discription ul li {
+    margin: 0;
+  }
+
+  /* footer end */
+
+  /* clients start */
+  .good h1,
+  .client-head h1 {
+    text-align: center;
+  }
+
+  .client-head h1 {
+    margin-top: 50px;
+  }
+
+  /* clients end */
+
+  /* global start */
+
+  .br-n {
+    border-right: none !important;
+  }
+
+  .bb-n {
+    border-bottom: none !important;
+  }
+
+  .bb {
+    border-bottom: 1px solid #dee2e6 !important;
+  }
+
+  /* global end */
+
+
+  /* watch start */
+  .watch {
+    padding-top: 100px;
+    padding-bottom: 92px;
+    height: 340px;
+  }
+
+  /* watch end */
+
+  /* header start */
+
+  nav ul {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  nav ul li {
+    margin-bottom: 10px;
+  }
+
+  /* header end */
+  /* banner start */
+  .banner {
+    padding-top: 50px;
+  }
+
+  .inner-carousel {
+    padding-bottom: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .inner-carousel p {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+  .inner-carousel button {
+    margin-top: 40px;
+  }
+
+  .inner-carousel h1 {
+    font-size: 26px;
+  }
+
+  /* banner end */
+
+  /*story start*/
+  .story {
+    padding: 60px 0;
+    text-align: center;
+  }
+
+  .story_wrapper1 {
+    margin-bottom: 20px;
+  }
+
+  /*story end*/
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  /* story start */
+
+  .story_wrapper1, .story_wrapper2{
+    text-align: center;
+  }
+  .story_wrapper2 h1{
+    margin-top: 20px;
+  }
+
+  /* story end */
+
+  /* footer start */
+
+
+  .studio-head h1 {
+    text-align: center;
+  }
+
+  footer .discription ul {
+    margin: 0;
+  }
+
+  .touch h1 {
+    text-align: center;
+    margin-top: 60px;
+  }
+
+  .touch ul,
+  touch p {
+    text-align: center !important;
+  }
+
+  footer .discription img {
+    text-align: center;
+  }
+
+  footer .discription ul li {
+    margin: 0;
+  }
+
+  /* footer end */
+  /* clients start */
+  .good h1,
+  .client-head h1 {
+    text-align: center;
+  }
+
+  .client-head h1 {
+    margin-top: 50px;
+  }
+
+  .good button {
+    /* margin: 0 auto; */
+    text-align: center !important;
+  }
+
+  /* clients end */
+
+  /* global start */
+
+  .br-n {
+    border-right: none !important;
+  }
+
+  .bb-n {
+    border-bottom: none !important;
+  }
+
+  .bb {
+    border-bottom: 1px solid #dee2e6 !important;
+  }
+
+  /* global end */
+
+  /* watch start */
+  .watch {
+    padding-top: 100px;
+    padding-bottom: 92px;
+  }
+
+
+
+  /* watch end */
+
+  /* header start */
+
+  nav ul {
+    text-align: center;
+  }
+
+  nav ul li {
+    margin-bottom: 10px;
+  }
+
+  /* header end */
+  /* banner start */
+  .banner {
+    padding-top: 50px;
+  }
+
+  .inner-carousel p {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+  .inner-carousel button {
+    margin-top: 40px;
+    padding: 6px 12px;
+    font-size: 15px;
+  }
+
+  .inner-carousel h1 {
+    font-size: 27px;
+  }
+
+  /* banner end */
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+  /* footer start */
+  footer .discription ul li {
+    margin: 0;
+  }
+
+  /* footer end */
+  /* expertise start */
+  .expertise_wrapper2 {
+    padding: 5px 20px;
+  }
+
+  /* expertise end */
+
+
+  /* watch start */
+  .watch {
+    padding-top: 130px;
+    padding-bottom: 122px;
+  }
+
+  .watch_wrapper p {
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+
+  /* watch end */
+
+  /* header start */
+
+  nav ul {
+    text-align: center;
+  }
+
+  nav ul li {
+    margin-bottom: 10px;
+  }
+
+  /* header end */
+  /* banner start */
+  .banner {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .inner-carousel {
+    margin-bottom: 0;
+  }
+
+  .inner-carousel hr {
+    width: 40px;
+  }
+
+  .inner-carousel p {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+  .inner-carousel button {
+    margin-top: 40px;
+  }
+
+  .inner-carousel h1 {
+    font-size: 29px;
+  }
+
+  /* banner end */
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  /* footer start */
+  footer .discription ul li {
+    margin: 0;
+  }
+
+  /* footer end */
+
+  /* watch start */
+  .watch {
+    padding: 130px 0;
+  }
+
+  /* watch end */
+
+  /* banner start */
+  .banner {
+    padding-top: 50px;
+  }
+
+  .inner-carousel p {
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+  .inner-carousel button {
+    margin-top: 40px;
+  }
+
+  .inner-carousel h1 {
+    font-size: 29px;
+  }
+
+  /* banner end */
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
